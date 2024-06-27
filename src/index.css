@@ -1,0 +1,35 @@
+/* styles.css (or any other CSS/PostCSS file) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply leading-[normal] m-0;
+}
+/* custom-scrollbar.css */
+/* Hide scrollbar for Firefox */
+::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #262629; /* Change this to the desired gray color */
+  border-radius: 10px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

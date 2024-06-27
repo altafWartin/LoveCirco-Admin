@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91f03d14.css",
+    "main.js": "/static/js/main.fce1af7b.js",
+    "static/media/rectangle-19@2x.png": "/static/media/rectangle-19@2x.292f746554fe08fa5aea.png",
+    "static/media/Rectangle 58.svg": "/static/media/Rectangle 58.29291f3f93d4c3bcef87c9716f604dd3.svg",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/ellipse-1@2x.png": "/static/media/ellipse-1@2x.d35fc4983679f860b1f4.png",
+    "static/media/ellipse-2@2x.png": "/static/media/ellipse-2@2x.a5d77e054201f22b3696.png",
+    "static/media/twitter.png": "/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/image-4-2-1@2x.png": "/static/media/image-4-2-1@2x.c8b4fd5587c5d86998ed.png",
+    "static/media/Group 1ContentB.svg": "/static/media/Group 1ContentB.3b9e52e932114f3f8e3364762ce8d678.svg",
+    "static/media/Group 1.svg": "/static/media/Group 1.ad4e3c3ee751303afcce590b667c3443.svg",
+    "static/media/slider-container.svg": "/static/media/slider-container.1a29450bdb15601d0306c889f431a663.svg",
+    "static/media/VectorDAB.svg": "/static/media/VectorDAB.649e9f7cfebf636ff1a2690caa3b0c27.svg",
+    "static/media/VectorDAW.svg": "/static/media/VectorDAW.a1d0fc77713679e67d00aaa4ec980070.svg",
+    "static/media/vector-2.svg": "/static/media/vector-2.d5ef31b0e45c1072b4e79bc2e242fab6.svg",
+    "index.html": "/index.html",
+    "static/media/input-form-container.svg": "/static/media/input-form-container.51ed6db8aa7943ca3497812a0821d8f2.svg",
+    "static/media/group-2.svg": "/static/media/group-2.176256914cab780df53a73368604e6f8.svg",
+    "static/media/group.svg": "/static/media/group.04eda5a5eef96fba1b4875e22b2afd2e.svg",
+    "static/media/group-3.svg": "/static/media/group-3.43d4abbe315445eaeb6c8260c4e9d88b.svg",
+    "static/media/edit--hide.svg": "/static/media/edit--hide.e2f0ebde2771048413122c9c08ad2d89.svg",
+    "static/media/NBB.svg": "/static/media/NBB.5c325a778dac8f8dc323cf534ee037e4.svg",
+    "static/media/notification-bell1394.svg": "/static/media/notification-bell1394.5c325a778dac8f8dc323cf534ee037e4.svg",
+    "static/media/group-5-1.svg": "/static/media/group-5-1.703e5cb930db2ba01153b2d19391a6a5.svg",
+    "static/media/group-5.svg": "/static/media/group-5.b006dae152be954bcf8c5890f55e423f.svg",
+    "static/media/User1.svg": "/static/media/User1.172d945354ea1abcfcc0435810d49b16.svg",
+    "static/media/Vector copy.svg": "/static/media/Vector copy.0d6e33dabd398970c9b6f68a8f137d3c.svg",
+    "static/media/vector-1.svg": "/static/media/vector-1.0d6e33dabd398970c9b6f68a8f137d3c.svg",
+    "static/media/group-9.svg": "/static/media/group-9.c1680e71b9416dcbdaf8c04d98e8f5da.svg",
+    "static/media/svgjsline1393.svg": "/static/media/svgjsline1393.f7fcc3949516cc3b0624ba8e5d72f9fd.svg",
+    "static/media/svgjsline1438.svg": "/static/media/svgjsline1438.bd277078472f5f0216d53d4755f301a7.svg",
+    "static/media/vector-21.svg": "/static/media/vector-21.7b23e9c19ac5a57e3e78baa0ba2a3109.svg",
+    "static/media/vector-12.svg": "/static/media/vector-12.287d77ff55faa56b193511d8a9898b3f.svg",
+    "main.91f03d14.css.map": "/static/css/main.91f03d14.css.map",
+    "main.fce1af7b.js.map": "/static/js/main.fce1af7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f03d14.css",
+    "static/js/main.fce1af7b.js"
+  ]
+}

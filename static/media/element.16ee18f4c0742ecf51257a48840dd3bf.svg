@@ -1,0 +1,55 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" fill="#E5E5E5" />
+    <g id="Dashboard" clip-path="url(#clip0_0_1)" filter="url(#filter0_d_0_1)">
+        <rect width="1440" height="900" transform="translate(-56 -126)" fill="#F5F7FB" />
+        <g id="Sidebar">
+            <rect width="250" height="900" transform="translate(-56 -126)" fill="white" />
+            <g id="Frame 3465796">
+                <g id="Menu Sidebar">
+                    <g id="Frame 3465760">
+                        <g id="Frame 13">
+                            <path
+                                d="M-16 -4.76837e-07C-16 -4.41828 -12.4183 -8 -8 -8H166C170.418 -8 174 -4.41828 174 0V24C174 28.4183 170.418 32 166 32H-8C-12.4183 32 -16 28.4183 -16 24V-4.76837e-07Z"
+                                fill="#FF8548" />
+                            <g id="vuesax/bold/element-3">
+                                <g id="vuesax/bold/element-3_2">
+                                    <g id="element-3">
+                                        <path id="Vector"
+                                            d="M22 8.52V3.98C22 2.57 21.36 2 19.77 2H15.73C14.14 2 13.5 2.57 13.5 3.98V8.51C13.5 9.93 14.14 10.49 15.73 10.49H19.77C21.36 10.5 22 9.93 22 8.52Z"
+                                            fill="white" />
+                                        <path id="Vector_2"
+                                            d="M22 19.77V15.73C22 14.14 21.36 13.5 19.77 13.5H15.73C14.14 13.5 13.5 14.14 13.5 15.73V19.77C13.5 21.36 14.14 22 15.73 22H19.77C21.36 22 22 21.36 22 19.77Z"
+                                            fill="white" />
+                                        <path id="Vector_3"
+                                            d="M10.5 8.52V3.98C10.5 2.57 9.86 2 8.27 2H4.23C2.64 2 2 2.57 2 3.98V8.51C2 9.93 2.64 10.49 4.23 10.49H8.27C9.86 10.5 10.5 9.93 10.5 8.52Z"
+                                            fill="white" />
+                                        <path id="Vector_4"
+                                            d="M10.5 19.77V15.73C10.5 14.14 9.86 13.5 8.27 13.5H4.23C2.64 13.5 2 14.14 2 15.73V19.77C2 21.36 2.64 22 4.23 22H8.27C9.86 22 10.5 21.36 10.5 19.77Z"
+                                            fill="white" />
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_d_0_1" x="-130" y="-196" width="1588" height="1048"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="37" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape" />
+        </filter>
+        <clipPath id="clip0_0_1">
+            <rect width="1440" height="900" fill="white" transform="translate(-56 -126)" />
+        </clipPath>
+    </defs>
+</svg>

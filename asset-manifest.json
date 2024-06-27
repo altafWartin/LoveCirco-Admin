@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dadmin/static/css/main.efe52ada.css",
+    "main.js": "/dadmin/static/js/main.10acb48b.js",
+    "static/media/Profile.jpeg": "/dadmin/static/media/Profile.980d97fef9d82158fefd.jpeg",
+    "static/media/calendar.svg": "/dadmin/static/media/calendar.55dc1e76efc6fec811ec93f099ed6a41.svg",
+    "static/media/element.svg": "/dadmin/static/media/element.16ee18f4c0742ecf51257a48840dd3bf.svg",
+    "static/media/setting.svg": "/dadmin/static/media/setting.26dd840ebab43109b096d96773ed5860.svg",
+    "static/media/Container.svg": "/dadmin/static/media/Container.8c81d30cadbb4bf70c34951270cae0d9.svg",
+    "static/media/workflow.svg": "/dadmin/static/media/workflow.b37ce364654ac28d20928c7086d7436b.svg",
+    "static/media/Notification.svg": "/dadmin/static/media/Notification.d812217583b5507ed6df2bfa02405d68.svg",
+    "static/media/Message.svg": "/dadmin/static/media/Message.a968486506d8d9db13de4d05057923a3.svg",
+    "index.html": "/dadmin/index.html",
+    "static/media/search.svg": "/dadmin/static/media/search.a6b7ac2be988e323fe5121bee76a5b22.svg",
+    "static/media/arrowdown.svg": "/dadmin/static/media/arrowdown.702d4d68b5e6fcce2ce494bffd4339b8.svg",
+    "static/media/logo.svg": "/dadmin/static/media/logo.74a1daa4ff9556db2c20db27e02b8abe.svg",
+    "main.efe52ada.css.map": "/dadmin/static/css/main.efe52ada.css.map",
+    "main.10acb48b.js.map": "/dadmin/static/js/main.10acb48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe52ada.css",
+    "static/js/main.10acb48b.js"
+  ]
+}

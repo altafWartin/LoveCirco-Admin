@@ -1,0 +1,995 @@
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 256px;
+    height: 1024px;
+}
+.vuesaxboldelement3Icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.vuesaxboldelement3Parent {
+    align-self: stretch;
+    border-radius: 8px;
+    background-color: #ff8548;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 16px;
+    gap: 16px;
+    color: #fff;
+}
+.workspace {
+    position: relative;
+}
+.iconcalendarParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 16px;
+    gap: 16px;
+}
+.frameChild {
+    align-self: stretch;
+}
+.frameParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.menuSidebar {
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.menuSidebarWrapper {
+    position: absolute;
+    top: 118px;
+    left: 40px;
+    height: 884px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.sidebarChild {
+    position: absolute;
+    top: 135px;
+    left: 0px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #fff;
+    width: 7px;
+    height: 32px;
+}
+.logoDesign {
+    position: absolute;
+    top: 70px;
+    left: 81px;
+    text-transform: capitalize;
+    color: #0c063a;
+}
+.sidebarItem {
+    position: absolute;
+    top: 67px;
+    left: 44px;
+    width: 30px;
+    height: 27px;
+}
+.sidebar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 250px;
+    height: 900px;
+}
+.frameInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #f5f7fb;
+    border: 1px solid #e2e2e2;
+    box-sizing: border-box;
+    width: 297px;
+    height: 40px;
+}
+.text {
+    position: absolute;
+    top: 11px;
+    left: 51px;
+    display: flex;
+    align-items: center;
+    width: 172px;
+    height: 18px;
+}
+.iconsearchNormal {
+    position: absolute;
+    height: 45%;
+    width: 6.06%;
+    top: 27.5%;
+    right: 89.86%;
+    bottom: 27.5%;
+    left: 4.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangleParent {
+    width: 297px;
+    position: relative;
+    height: 40px;
+}
+.groupIcon {
+    width: 40px;
+    position: relative;
+    height: 40px;
+    object-fit: contain;
+}
+.groupParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.gracetrans {
+    position: relative;
+    font-weight: 600;
+}
+.gracetrans1 {
+    position: relative;
+    font-size: 11px;
+    color: #5d5b73;
+    margin-top: -2px;
+}
+.gracetransParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.avatarIcon {
+    width: 44px;
+    position: relative;
+    border-radius: 50px;
+    height: 44px;
+    object-fit: cover;
+}
+.frameContainer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 15px;
+}
+.userAccount {
+    width: 140px;
+    position: relative;
+    height: 44px;
+}
+.iconarrowSquareDown {
+    width: 20px;
+    position: relative;
+    height: 20px;
+}
+.userAccountParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.frameGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+    font-size: 14px;
+    color: #1a1a1a;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    background-color: #fff;
+    width: 1190px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 48px 16px 44px;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+.dashboard2 {
+    position: relative;
+    letter-spacing: 0.02em;
+    font-weight: 600;
+}
+.icon {
+    width: 21px;
+    position: relative;
+    height: 21px;
+}
+.date {
+    position: relative;
+    font-weight: 500;
+}
+.calendar {
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 4px 8px;
+    gap: 8px;
+}
+.calendar1 {
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 4px;
+}
+.calendarParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+    text-align: right;
+    font-size: 12px;
+}
+.dashboardParent {
+    position: absolute;
+    top: 118px;
+    left: 294px;
+    width: 1098px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: #0c063a;
+}
+.chart2Icon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+}
+.chart2Parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.taskInProgressChild {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 80px;
+    flex-shrink: 0;
+}
+.div {
+    position: relative;
+    line-height: 42px;
+    font-weight: 500;
+}
+.lastWeek {
+    position: relative;
+    color: #5d5b73;
+}
+.vuesaxoutlinetrendUpParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 12px;
+    color: #4cc830;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 24px;
+    color: #0c063a;
+}
+.taskInProgress {
+    width: 346px;
+    border-radius: 24px;
+    border: 1px dashed #5d5b73;
+    box-sizing: border-box;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    gap: 16px;
+}
+.vuesaxoutlinetrendUpGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 12px;
+    color: #fd521b;
+}
+.lineDiv {
+    position: absolute;
+    top: 12.5px;
+    left: 34.5px;
+    border-top: 1px dashed #5d5b73;
+    box-sizing: border-box;
+    width: 264px;
+    height: 1px;
+    opacity: 0.3;
+}
+.frameChild2 {
+    position: absolute;
+    top: 55.5px;
+    left: 34.5px;
+    border-top: 1px dashed #5d5b73;
+    box-sizing: border-box;
+    width: 264px;
+    height: 1px;
+    opacity: 0.3;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #605bff;
+    width: 36px;
+    height: 42.55px;
+}
+.div4 {
+    position: absolute;
+    top: 27.55px;
+    left: 7.2px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 21.6px;
+}
+.rectangleGroup {
+    width: 36px;
+    position: relative;
+    height: 42.55px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #4cd7f6;
+    width: 36px;
+    height: 62.74px;
+}
+.div5 {
+    position: absolute;
+    top: 47.74px;
+    left: 7.6px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 21.6px;
+}
+.rectangleContainer {
+    width: 36px;
+    position: relative;
+    height: 62.74px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #ff8548;
+    width: 36px;
+    height: 75px;
+}
+.div6 {
+    position: absolute;
+    top: 60px;
+    left: calc(50% - 12px);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+}
+.groupDiv {
+    width: 36px;
+    position: relative;
+    height: 75px;
+}
+.groupContainer {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 68px);
+    width: 172px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.mParent {
+    position: absolute;
+    top: 0px;
+    left: -1px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: right;
+    font-size: 12px;
+    color: #5d5b73;
+}
+.lineParent {
+    align-self: stretch;
+    position: relative;
+    height: 80px;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+}
+.monthlyTask {
+    width: 346px;
+    border-radius: 24px;
+    background-color: #fff;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    gap: 16px;
+}
+.overview {
+    position: absolute;
+    top: 196px;
+    left: 294px;
+    width: 1098px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    text-align: right;
+}
+.bg1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 722px;
+    height: 330px;
+}
+.lineIcon {
+    position: absolute;
+    top: 89.39px;
+    left: 62.26px;
+    width: 635.74px;
+    height: 253.26px;
+}
+.div9 {
+    position: absolute;
+    top: 0px;
+    left: 0.1px;
+    display: inline-block;
+    width: 22.09px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.div10 {
+    position: absolute;
+    top: 50.65px;
+    left: 3px;
+    display: inline-block;
+    width: 19px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.div11 {
+    position: absolute;
+    top: 101.31px;
+    left: 0px;
+    display: inline-block;
+    width: 22px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.div12 {
+    position: absolute;
+    top: 151.96px;
+    left: 1px;
+    display: inline-block;
+    width: 21px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.div13 {
+    position: absolute;
+    top: 202.61px;
+    left: 7.13px;
+    display: inline-block;
+    width: 15.06px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.div14 {
+    position: absolute;
+    top: 253.26px;
+    left: 14.16px;
+    display: inline-block;
+    width: 8.03px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.number {
+    position: absolute;
+    top: 81.44px;
+    left: 24px;
+    width: 22.19px;
+    height: 271.14px;
+    opacity: 0.7;
+    text-align: right;
+    color: #0c063a;
+}
+.am {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am1 {
+    position: absolute;
+    top: 0px;
+    left: 66.32px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am2 {
+    position: absolute;
+    top: 0px;
+    left: 132.64px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am3 {
+    position: absolute;
+    top: 0px;
+    left: 198.95px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am4 {
+    position: absolute;
+    top: 0px;
+    left: 265.27px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am5 {
+    position: absolute;
+    top: 0px;
+    left: 331.59px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am6 {
+    position: absolute;
+    top: 0px;
+    left: 397.91px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am7 {
+    position: absolute;
+    top: 0px;
+    left: 464.22px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am8 {
+    position: absolute;
+    top: 0px;
+    left: 530.54px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.am9 {
+    position: absolute;
+    top: 0px;
+    left: 596.86px;
+    display: inline-block;
+    width: 37.88px;
+    height: 17.88px;
+    opacity: 0.7;
+}
+.time {
+    position: absolute;
+    top: 357.55px;
+    left: 63.26px;
+    width: 634.74px;
+    height: 17.88px;
+}
+.vectorIcon {
+    position: absolute;
+    height: 49.06%;
+    width: 87.95%;
+    top: 42.19%;
+    right: 3.32%;
+    bottom: 8.74%;
+    left: 8.73%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vectorIcon1 {
+    position: absolute;
+    height: 40.23%;
+    width: 87.95%;
+    top: 42.19%;
+    right: 3.32%;
+    bottom: 17.58%;
+    left: 8.73%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.elipesIcon {
+    position: absolute;
+    top: 165.86px;
+    left: 182.81px;
+    width: 443.79px;
+    height: 99.63px;
+}
+.reports1 {
+    width: 123px;
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+    display: inline-block;
+    height: 28px;
+    flex-shrink: 0;
+}
+.menuIcon {
+    width: 14.06px;
+    position: relative;
+    height: 3.5px;
+    object-fit: contain;
+    opacity: 0.3;
+}
+.reportsGroup {
+    position: absolute;
+    top: 14.74px;
+    left: 24px;
+    width: 674px;
+    height: 34.38px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+}
+.unionChild {
+    position: absolute;
+    top: 588.62px;
+    left: 618px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 108.56px;
+    height: 63.1px;
+}
+.unionItem {
+    position: absolute;
+    top: 661.86px;
+    left: 663.13px;
+    border-radius: 1px;
+    width: 17.08px;
+    height: 15.77px;
+}
+.union {
+    position: relative;
+    background-color: #0c063a;
+    box-shadow: 0px 4px 7px rgba(3, 2, 41, 0.07);
+    width: 108.56px;
+    height: 72.35px;
+}
+.created {
+    position: absolute;
+    top: 7.37px;
+    left: calc(50% - 32.5px);
+    display: inline-block;
+    width: 65px;
+    height: 18.11px;
+    opacity: 0.7;
+}
+.completes {
+    position: absolute;
+    top: 30.56px;
+    left: calc(50% - 54.5px);
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    width: 109px;
+    height: 25.08px;
+}
+.toolTip {
+    position: absolute;
+    top: 132.62px;
+    left: 324px;
+    width: 109px;
+    height: 72.35px;
+    color: #fff;
+}
+.reportsChild {
+    position: absolute;
+    top: 224.95px;
+    left: 378.13px;
+    border-right: 1px dashed #ff8548;
+    box-sizing: border-box;
+    width: 1px;
+    height: 117.2px;
+}
+.reports {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 722px;
+    height: 375.43px;
+}
+.performance {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 28px;
+    font-weight: 600;
+}
+.menuIcon1 {
+    position: absolute;
+    height: 14%;
+    width: 4.73%;
+    top: 42%;
+    right: 0%;
+    bottom: 44%;
+    left: 95.27%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+    opacity: 0.3;
+}
+.performanceParent {
+    align-self: stretch;
+    position: relative;
+    height: 25px;
+    color: #5d5b73;
+}
+.donoughtChartIcon {
+    position: absolute;
+    top: calc(50% - 150.79px);
+    left: calc(50% - 150.79px);
+    width: 301.57px;
+    height: 301.57px;
+}
+.ellipseDiv {
+    position: absolute;
+    top: 78.5px;
+    left: 79px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.25);
+    width: 144px;
+    height: 144px;
+}
+.b {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 35px);
+    line-height: 40px;
+    display: inline-block;
+    width: 70px;
+    height: 40px;
+}
+.score {
+    position: absolute;
+    top: 35.5px;
+    left: calc(50% - 23px);
+    font-size: 16px;
+    color: #5d5b73;
+    text-align: left;
+    opacity: 0.7;
+}
+.text1 {
+    position: absolute;
+    top: 121.5px;
+    left: calc(50% - 34.79px);
+    width: 70px;
+    height: 59.5px;
+}
+.donoughtChartParent {
+    position: absolute;
+    top: calc(50% - 151px);
+    left: calc(50% - 151px);
+    width: 301.57px;
+    height: 301.57px;
+}
+.groupWrapper {
+    width: 216px;
+    position: relative;
+    height: 216px;
+    text-align: center;
+    font-size: 30px;
+}
+.completed {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 97px;
+    opacity: 0.7;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #4cd7f6;
+    width: 14.32px;
+    height: 15px;
+}
+.completedParent {
+    width: 92px;
+    position: relative;
+    height: 18px;
+}
+.distribute {
+    position: absolute;
+    top: 0px;
+    left: 23.38px;
+    font-weight: 500;
+    display: inline-block;
+    width: 74px;
+    opacity: 0.7;
+}
+.frameChild3 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #ff8548;
+    width: 14.32px;
+    height: 15px;
+}
+.distributeParent {
+    width: 94px;
+    position: relative;
+    height: 18px;
+}
+.return {
+    position: absolute;
+    top: 0px;
+    left: 23.61px;
+    font-weight: 500;
+    display: inline-block;
+    width: 51px;
+    opacity: 0.7;
+}
+.frameChild4 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #605bff;
+    width: 14.32px;
+    height: 15px;
+}
+.returnParent {
+    width: 71.61px;
+    position: relative;
+    height: 18px;
+}
+.indicator {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+}
+.frameParent1 {
+    position: absolute;
+    top: 0px;
+    left: 754px;
+    border-radius: 24px;
+    background-color: #fff;
+    box-shadow: 0px 4px 19px rgba(0, 0, 0, 0.25);
+    width: 344px;
+    height: 375px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px 22px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 16px;
+    color: #0c063a;
+}
+.reportsParent {
+    position: absolute;
+    top: 456px;
+    left: 294px;
+    width: 1098px;
+    height: 375.43px;
+    font-size: 12px;
+}
+.dashboard {
+    width: 100%;
+    position: relative;
+    background-color: #f5f7fb;
+    box-shadow: 0px 4px 74px rgba(0, 0, 0, 0.25);
+    height: 900px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #5d5b73;
+    font-family: Poppins;
+}
+
